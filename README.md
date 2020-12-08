@@ -1,23 +1,13 @@
 ### Hi, I'm Maggie! 
 
+<img align="left" width="175" height="200" src="https://github.com/maggiedalke/maggiedalke/blob/main/images/githubocto2.gif">
 
 
 
-<!--
-**maggiedalke/maggiedalke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+#### Connect with me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-Connect with me:
+- <a href="www.linkedin.com/in/maggie-courtney-dalke-6b9b00194">Linkedin</a> 
+- <a href="https://twitter.com/Maggie_Dalke">Twitter</a>
+- <a href="https://www.instagram.com/maggioes/">Instagram</a>
 
