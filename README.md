@@ -2,7 +2,7 @@
 
 <img align="left" width="200" height="225" src="https://github.com/maggiedalke/maggiedalke/blob/main/images/githubocto2.gif">
 
-The software development field has always intrigued me, particularly website/app design and developement. Recently an oppurtunity presented itself to me and I decided to take the leap and make it my career!  Currently learning Javasciprt and Reactjs. 
+The software development field has always intrigued me, particularly website/app design and developement. Recently an oppurtunity presented itself to me and I decided to take the leap and make it my career!  Currently learning Javascript and Reactjs. 
 
 #### Connect with me:
 - <a href="https://www.linkedin.com/in/maggie-courtney-dalke-6b9b00194">Linkedin</a> 💼
