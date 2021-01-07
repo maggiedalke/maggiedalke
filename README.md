@@ -1,11 +1,10 @@
-### Hi, I'm Maggie! 🐕 
+<img src="https://github.com/maggiedalke/maggiedalke/blob/main/images/Maggie-Header.jpg">
 
-<img align="left" width="200" height="225" src="https://github.com/maggiedalke/maggiedalke/blob/main/images/githubocto2.gif">
-
-The software development field has always intrigued me, particularly website/app design and developement. Recently an oppurtunity presented itself to me and I decided to take the leap and make it my career!  Currently learning Javascript and Reactjs. 
-
-#### Connect with me:
-- <a href="https://www.linkedin.com/in/maggie-courtney-dalke-6b9b00194">Linkedin</a> 💼
-- <a href="https://twitter.com/Maggie_Dalke">Twitter</a> 🐤
-- <a href="https://www.instagram.com/maggioes/">Instagram</a> 📷
-
+### Hi, I'm Maggie! :blush:
+<p align="center">
+:school_satchel: In a Software Developement Program (2021! :mortar_board:) <br>
+:sparkling_heart: Favorite Language: CSS (I love styling!)<br>
+:books: Currently Learning: React <br>
+💼 LinkedIn: <a href="https://www.linkedin.com/in/maggie-courtney-dalke-6b9b00194">Maggie Courtney Dalke</a> <br>
+📷 Instagram: <a href="https://www.instagram.com/maggioes/">Maggieos</a><br>
+</p>
