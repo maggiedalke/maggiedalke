@@ -1,7 +1,6 @@
 <img src="https://github.com/maggiedalke/maggiedalke/blob/main/images/Maggie-Header.jpg">
-
-### Hi, I'm Maggie! :blush:
 <p align="center">
+  <h2> Hi, I'm Maggie! :blush: </h2> 
 :school_satchel: In a Software Developement Program (2021! :mortar_board:) <br>
 :sparkling_heart: Favorite Language: CSS (I love styling!)<br>
 :books: Currently Learning: React <br>
