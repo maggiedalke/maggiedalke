@@ -5,5 +5,4 @@
 :sparkling_heart: Favorite Language: Javascript <br>
 :books: Currently Learning: C# <br>
 💼 LinkedIn: <a href="https://www.linkedin.com/in/maggie-courtney-dalke-6b9b00194">Maggie Dalke</a> <br>
-📷 Instagram: <a href="https://www.instagram.com/maggioes/">Maggieos</a><br>
 </p>
