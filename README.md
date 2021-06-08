@@ -1,4 +1,3 @@
-<img src="https://github.com/maggiedalke/maggiedalke/blob/main/images/MaggieHeader.jpg">
 <p align="center">
   <strong> Hi, I'm Maggie!</strong> :blush: <br> 
 :school_satchel: In a Software Developement Program (2021! :mortar_board:) <br>
